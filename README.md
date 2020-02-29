@@ -9,6 +9,7 @@ How can I open this project?
 1. ```git clone https://github.com/jormaje/IndustrialTechDemo```
 2. Open [UnityHub](https://unity3d.com/es/get-unity/download)
 3. Press Add and select the folder where you cloned this repo (Unity 2019.3.1f1)
+4. Set BuildSettings/TextureCompression to ASTC
 
 ## Built With
 
